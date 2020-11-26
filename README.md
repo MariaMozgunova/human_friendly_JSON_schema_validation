@@ -1,4 +1,4 @@
-### Human friendly JSON schema validation
+### User-friendly JSON schema validation
 This program validates JSON files and schemas for them. In case of success, JSON file is validated against JSON schema. JSON schemas and JSON files should be in different directories. Errors during validation are logged to the logs.txt. The user chooses dirs to work with with graphical interface provided by `tkinter.filedialog.askdirectory`.
 
 
